@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DebuggerData>
+  <debuggerDataStudioVersion>0</debuggerDataStudioVersion>
+  <debuggerAttachSettings>
+    <DatabaseResourceName />
+    <IsInternalDB>true</IsInternalDB>
+  </debuggerAttachSettings>
+  <debuggerSettings>
+    <CleanRecovery>false</CleanRecovery>
+    <EndContextAfterLastStep>false</EndContextAfterLastStep>
+    <GracefulStopDuration>5</GracefulStopDuration>
+    <SchedulerRefreshInterval>5</SchedulerRefreshInterval>
+    <ContextViewActionTimeout>30</ContextViewActionTimeout>
+  </debuggerSettings>
+  <DebuggerInstractionsList />
+</DebuggerData>

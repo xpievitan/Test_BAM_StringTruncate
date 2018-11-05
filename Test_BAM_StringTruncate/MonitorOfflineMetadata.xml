@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectData projectKey="d3199e47-ebba-4591-a489-d631f6dd03cf">
+  <BusinessProcess>
+    <ID>1</ID>
+    <Name>Business Process-1</Name>
+    <Flow>
+      <ID>1</ID>
+      <Name>Flow-1</Name>
+      <Step>
+        <ID>1</ID>
+        <Name>Set Vars</Name>
+      </Step>
+      <Step>
+        <ID>2</ID>
+        <Name>BAM Utility_2_OK</Name>
+      </Step>
+      <Step>
+        <ID>3</ID>
+        <Name>NOP</Name>
+      </Step>
+      <Step>
+        <ID>4</ID>
+        <Name>Data Mapper</Name>
+      </Step>
+      <Step>
+        <ID>5</ID>
+        <Name>BAM Utility_1_KO</Name>
+      </Step>
+      <Step>
+        <ID>6</ID>
+        <Name>Delay</Name>
+      </Step>
+    </Flow>
+  </BusinessProcess>
+</ProjectData>
