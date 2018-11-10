@@ -12,81 +12,96 @@
         <ID>1</ID>
         <Name>DBMS</Name>
         <ExpressionValue>21</ExpressionValue>
+        <DisplaySequenceID>1</DisplaySequenceID>
       </Resource_Properties>
       <Resource_Properties>
         <ID>10</ID>
         <Name>Library/Schema Name</Name>
         <ExpressionValue />
+        <DisplaySequenceID>10</DisplaySequenceID>
       </Resource_Properties>
       <Resource_Properties>
         <ID>2</ID>
         <Name>Database name</Name>
         <ExpressionValue>mgxpi4_1</ExpressionValue>
-      </Resource_Properties>
-      <Resource_Properties>
-        <ID>3</ID>
-        <Name>Server</Name>
-        <ExpressionValue>.\SQLEXPRESS</ExpressionValue>
-      </Resource_Properties>
-      <Resource_Properties>
-        <ID>4</ID>
-        <Name>Data Source name</Name>
-        <ExpressionValue />
-      </Resource_Properties>
-      <Resource_Properties>
-        <ID>5</ID>
-        <Name>Connect String</Name>
-        <ExpressionValue />
-      </Resource_Properties>
-      <Resource_Properties>
-        <ID>6</ID>
-        <Name>Database alias</Name>
-        <ExpressionValue />
-      </Resource_Properties>
-      <Resource_Properties>
-        <ID>7</ID>
-        <Name>User</Name>
-        <ExpressionValue>sa</ExpressionValue>
-      </Resource_Properties>
-      <Resource_Properties>
-        <ID>8</ID>
-        <Name>Password</Name>
-        <ExpressionValue>cX2i1OUZBUs2hla+gZ/uKg==</ExpressionValue>
-      </Resource_Properties>
-      <Resource_Properties>
-        <ID>9</ID>
-        <Name>Starting Owner</Name>
-        <ExpressionValue />
+        <DisplaySequenceID>2</DisplaySequenceID>
       </Resource_Properties>
       <Resource_Properties>
         <ID>20</ID>
         <Name>DataB name - sort (Lowercase)</Name>
         <ExpressionValue />
+        <DisplaySequenceID>11</DisplaySequenceID>
       </Resource_Properties>
       <Resource_Properties>
         <ID>22</ID>
         <Name>Filter Owner</Name>
         <ExpressionValue />
+        <DisplaySequenceID>12</DisplaySequenceID>
       </Resource_Properties>
       <Resource_Properties>
         <ID>23</ID>
         <Name>ODBC Driver Name</Name>
         <ExpressionValue />
+        <DisplaySequenceID>13</DisplaySequenceID>
       </Resource_Properties>
       <Resource_Properties>
         <ID>24</ID>
         <Name>Filters data</Name>
         <ExpressionValue />
+        <DisplaySequenceID>14</DisplaySequenceID>
       </Resource_Properties>
       <Resource_Properties>
         <ID>25</ID>
         <Name>Library Details</Name>
         <ExpressionValue />
+        <DisplaySequenceID>15</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>3</ID>
+        <Name>Server</Name>
+        <ExpressionValue>.\SQLEXPRESS</ExpressionValue>
+        <DisplaySequenceID>3</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>4</ID>
+        <Name>Data Source name</Name>
+        <ExpressionValue />
+        <DisplaySequenceID>4</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>5</ID>
+        <Name>Connect String</Name>
+        <ExpressionValue />
+        <DisplaySequenceID>5</DisplaySequenceID>
       </Resource_Properties>
       <Resource_Properties>
         <ID>555</ID>
         <Name>Offline</Name>
         <ExpressionValue>False</ExpressionValue>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>6</ID>
+        <Name>Database alias</Name>
+        <ExpressionValue />
+        <DisplaySequenceID>6</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>7</ID>
+        <Name>User</Name>
+        <ExpressionValue>sa</ExpressionValue>
+        <DisplaySequenceID>7</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>8</ID>
+        <Name>Password</Name>
+        <ExpressionValue>cX2i1OUZBUs2hla+gZ/uKg==</ExpressionValue>
+        <DisplaySequenceID>8</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>9</ID>
+        <Name>Starting Owner</Name>
+        <ExpressionValue />
+        <DisplaySequenceID>9</DisplaySequenceID>
       </Resource_Properties>
     </Main_Resource_Defintion>
   </Resource_Element>

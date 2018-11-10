@@ -30,6 +30,10 @@
         <ID>6</ID>
         <Name>Delay</Name>
       </Step>
+      <Step>
+        <ID>7</ID>
+        <Name>NOP</Name>
+      </Step>
     </Flow>
   </BusinessProcess>
 </ProjectData>

@@ -15,7 +15,7 @@
       <Component id="1" name="UserFunctionality">
         <Description val="Handles the Range, Locate, Sort and Print Data internal events"/>
         <CompId val="738976342-28670-18720-BFE77D42E"/>
-        <MciFile val="D:\MSE_XPI\Magic_xpi_46\runtime\magic xpa\Add_On\UserFunctionality\UserFunctionality.eci"/>
+        <MciFile val="D:\MSE_XPI\Magicxpi47\runtime\magic xpa\Add_On\UserFunctionality\UserFunctionality.eci"/>
         <ComponentType val="Magic xpa"/>
         <Type val="U"/>
         <CABINET_FILE val="%EngineDir%Add_On\UserFunctionality\UserFunctionality.ecf"/>
@@ -1413,15 +1413,7 @@
           <Object>
             <id val="1"/>
             <ItemIsn val="1"/>
-            <PublicName val="emailStringValidate"/>
-          </Object>
-          <Object>
-            <ItemIsn val="2"/>
-            <PublicName val="CornerstoneGetTokenSignature"/>
-          </Object>
-          <Object>
-            <ItemIsn val="3"/>
-            <PublicName val="CornerstoneGetSessionSignature"/>
+            <PublicName val="userfunctionsTest"/>
           </Object>
         </ComponentFuncs>
       </Component>

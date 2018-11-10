@@ -6,7 +6,7 @@
     <ID>1</ID>
     <Name>PSS Publish</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\PSS Publish.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\PSS Publish.png</IconFile>
     <TwoPhase>false</TwoPhase>
     <SupportedInterface>XML</SupportedInterface>
     <DefResSerType>0</DefResSerType>
@@ -44,7 +44,7 @@
     <ID>148</ID>
     <Name>Validation</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\Validation.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\Validation.png</IconFile>
     <TwoPhase>false</TwoPhase>
     <SupportedInterface>Method</SupportedInterface>
     <DefInterface>2</DefInterface>
@@ -89,7 +89,7 @@
     <ID>12</ID>
     <Name>Flow Data</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\Flow Data.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\Flow Data.png</IconFile>
     <TwoPhase>false</TwoPhase>
     <SupportedInterface>XML</SupportedInterface>
     <DefResSerType>0</DefResSerType>
@@ -127,7 +127,7 @@
     <ID>24</ID>
     <Name>Refresh Conversions</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\Refresh Conversions.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\Refresh Conversions.png</IconFile>
     <TwoPhase>false</TwoPhase>
     <SupportedInterface>XML</SupportedInterface>
     <DefResSerType>0</DefResSerType>
@@ -165,7 +165,7 @@
     <ID>20</ID>
     <Name>Enable Flow</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\Enable Flow.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\Enable Flow.png</IconFile>
     <TwoPhase>false</TwoPhase>
     <SupportedInterface>XML</SupportedInterface>
     <DefResSerType>0</DefResSerType>
@@ -203,7 +203,7 @@
     <ID>13</ID>
     <Name>Post Event</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\Post Event.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\Post Event.png</IconFile>
     <TwoPhase>false</TwoPhase>
     <SupportedInterface>XML</SupportedInterface>
     <DefResSerType>0</DefResSerType>
@@ -241,7 +241,7 @@
     <ID>14</ID>
     <Name>Wait for Event</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\Wait for Event.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\Wait for Event.png</IconFile>
     <TwoPhase>false</TwoPhase>
     <SupportedInterface>XML</SupportedInterface>
     <DefResSerType>0</DefResSerType>
@@ -279,7 +279,7 @@
     <ID>8</ID>
     <Name>Schedule Flow</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\Schedule Flow.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\Schedule Flow.png</IconFile>
     <TwoPhase>false</TwoPhase>
     <SupportedInterface>XML</SupportedInterface>
     <DefResSerType>0</DefResSerType>
@@ -317,7 +317,7 @@
     <ID>26</ID>
     <Name>Abort Flow</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\Abort Flow.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\Abort Flow.png</IconFile>
     <TwoPhase>false</TwoPhase>
     <SupportedInterface>XML</SupportedInterface>
     <DefResSerType>0</DefResSerType>
@@ -355,7 +355,7 @@
     <ID>16</ID>
     <Name>BAM Utility</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\BAM Utility.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\BAM Utility.png</IconFile>
     <TwoPhase>false</TwoPhase>
     <SupportedInterface>XML</SupportedInterface>
     <DefResSerType>0</DefResSerType>
@@ -393,7 +393,7 @@
     <ID>3</ID>
     <Name>PSS Remove</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\PSS Remove.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\PSS Remove.png</IconFile>
     <TwoPhase>false</TwoPhase>
     <SupportedInterface>XML</SupportedInterface>
     <DefResSerType>0</DefResSerType>
@@ -426,50 +426,12 @@
     </ConfigInfo>
   </IFCDefinition>
   <IFCDefinition>
-    <Description>The SNMP utility is used to create and send text messages to a SNMP.</Description>
-    <GUID>{971F86E0-F6D6-4A58-A296-C6706131F2DF}</GUID>
-    <ID>15</ID>
-    <Name>SNMP</Name>
-    <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\SNMP.png</IconFile>
-    <TwoPhase>false</TwoPhase>
-    <SupportedInterface>XML</SupportedInterface>
-    <DefResSerType>0</DefResSerType>
-    <StpTrgBoth>Step</StpTrgBoth>
-    <NameSpace>MagicSoftware.iBolt.Services.iBServiceUI</NameSpace>
-    <DataNameSpace>MagicSoftware.iBolt.Services.iBSNMPService</DataNameSpace>
-    <InternalItem>true</InternalItem>
-    <Groups>
-      <row>
-        <Name>Utilities</Name>
-        <GroupName>Actions</GroupName>
-      </row>
-    </Groups>
-    <ConfigInfo>
-      <ClassType>
-        <ID>0</ID>
-        <Type>0</Type>
-        <GeneratorType>0</GeneratorType>
-      </ClassType>
-      <TriggerType>0</TriggerType>
-      <InternalGroups>
-        <row>
-          <ID>15</ID>
-        </row>
-      </InternalGroups>
-      <ConfigRequireResource>false</ConfigRequireResource>
-      <ConfigRequireService>false</ConfigRequireService>
-      <CheckerRequireResource>false</CheckerRequireResource>
-      <CheckerRequireService>false</CheckerRequireService>
-    </ConfigInfo>
-  </IFCDefinition>
-  <IFCDefinition>
     <Description>The Data Mapper utility lets you map Source data to Destination data.</Description>
     <GUID>{ED5DDC7F-C57E-4B5F-8F51-78502D7C0065}</GUID>
     <ID>11</ID>
     <Name>Data Mapper</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\Data Mapper.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\Data Mapper.png</IconFile>
     <TwoPhase>false</TwoPhase>
     <SupportedInterface>XML</SupportedInterface>
     <DefResSerType>0</DefResSerType>
@@ -507,7 +469,7 @@
     <ID>2</ID>
     <Name>PSS Subscribe</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\PSS Subscribe.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\PSS Subscribe.png</IconFile>
     <TwoPhase>false</TwoPhase>
     <SupportedInterface>XML</SupportedInterface>
     <DefResSerType>0</DefResSerType>
@@ -545,7 +507,7 @@
     <ID>7</ID>
     <Name>Invoke Flow</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\Invoke Flow.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\Invoke Flow.png</IconFile>
     <TwoPhase>false</TwoPhase>
     <SupportedInterface>XML</SupportedInterface>
     <DefResSerType>0</DefResSerType>
@@ -583,7 +545,7 @@
     <ID>9</ID>
     <Name>Invoke Flow Delay</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\Invoke flow delay.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\Invoke flow delay.png</IconFile>
     <TwoPhase>false</TwoPhase>
     <SupportedInterface>XML</SupportedInterface>
     <DefResSerType>0</DefResSerType>
@@ -621,7 +583,7 @@
     <ID>10</ID>
     <Name>Delay</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\Delay.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\Delay.png</IconFile>
     <TwoPhase>false</TwoPhase>
     <SupportedInterface>XML</SupportedInterface>
     <DefResSerType>0</DefResSerType>
@@ -659,7 +621,7 @@
     <ID>4</ID>
     <Name>Lock Resource</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\Lock.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\Lock.png</IconFile>
     <TwoPhase>false</TwoPhase>
     <SupportedInterface>XML</SupportedInterface>
     <DefResSerType>0</DefResSerType>
@@ -697,7 +659,7 @@
     <ID>5</ID>
     <Name>Unlock Resource</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\Unlock.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\Unlock.png</IconFile>
     <TwoPhase>false</TwoPhase>
     <SupportedInterface>XML</SupportedInterface>
     <DefResSerType>0</DefResSerType>
@@ -735,7 +697,7 @@
     <ID>6</ID>
     <Name>Save Message</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\Save Message.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\Save Message.png</IconFile>
     <TwoPhase>false</TwoPhase>
     <SupportedInterface>XML</SupportedInterface>
     <DefResSerType>0</DefResSerType>
@@ -773,7 +735,7 @@
     <ID>22</ID>
     <Name>NOP</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\NOP.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\NOP.png</IconFile>
     <TwoPhase>false</TwoPhase>
     <SupportedInterface>XML</SupportedInterface>
     <DefResSerType>0</DefResSerType>
@@ -811,7 +773,7 @@
     <ID>18</ID>
     <Name>Scheduler Utility</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\Scheduler.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\Scheduler.png</IconFile>
     <TwoPhase>false</TwoPhase>
     <SupportedInterface>XML</SupportedInterface>
     <DefInterface>1</DefInterface>
@@ -819,7 +781,7 @@
     <StpTrgBoth>Trigger</StpTrgBoth>
     <NameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</NameSpace>
     <DataNameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</DataNameSpace>
-    <AdaptorDLLPath>D:\MSE_XPI\Magic_xpi_46\Studio\Extensions\Application\Scheduler.dll</AdaptorDLLPath>
+    <AdaptorDLLPath>D:\MSE_XPI\Magicxpi47\Studio\Extensions\Application\Scheduler.dll</AdaptorDLLPath>
     <InternalItem>true</InternalItem>
     <TriggerDataNameSpace />
     <TriggerNameSpace />
@@ -859,7 +821,7 @@
     <ID>17</ID>
     <Name>Java Class Connector</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\Java Class Connector.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\Java Class Connector.png</IconFile>
     <TwoPhase>false</TwoPhase>
     <SupportedInterface>XML</SupportedInterface>
     <DefResSerType>0</DefResSerType>
@@ -897,7 +859,7 @@
     <ID>132</ID>
     <Name>XSLT</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\XSLT.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\XSLT.png</IconFile>
     <TwoPhase>false</TwoPhase>
     <SupportedInterface>Both</SupportedInterface>
     <DefInterface>2</DefInterface>
@@ -942,7 +904,7 @@
     <ID>108</ID>
     <Name>File Management</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\File Management.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\File Management.png</IconFile>
     <TwoPhase>false</TwoPhase>
     <SupportedInterface>Both</SupportedInterface>
     <DefInterface>2</DefInterface>
@@ -987,7 +949,7 @@
     <ID>151</ID>
     <Name>Google Calendar</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\Google Calendar.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\Google Calendar.png</IconFile>
     <TwoPhase>false</TwoPhase>
     <SupportedInterface>Method</SupportedInterface>
     <DefInterface>2</DefInterface>
@@ -1032,7 +994,7 @@
     <ID>154</ID>
     <Name>Google Drive</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\Google Drive.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\Google Drive.png</IconFile>
     <TwoPhase>false</TwoPhase>
     <SupportedInterface>Method</SupportedInterface>
     <DefInterface>2</DefInterface>
@@ -1077,7 +1039,7 @@
     <ID>122</ID>
     <Name>File Archive</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\File Archive.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\File Archive.png</IconFile>
     <TwoPhase>false</TwoPhase>
     <SupportedInterface>Both</SupportedInterface>
     <DefInterface>2</DefInterface>
@@ -1122,7 +1084,7 @@
     <ID>124</ID>
     <Name>File Splitter</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\File Splitter.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\File Splitter.png</IconFile>
     <TwoPhase>false</TwoPhase>
     <SupportedInterface>Both</SupportedInterface>
     <DefInterface>2</DefInterface>
@@ -1167,7 +1129,7 @@
     <ID>123</ID>
     <Name>Encryption</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\Encryption.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\Encryption.png</IconFile>
     <TwoPhase>false</TwoPhase>
     <SupportedInterface>Both</SupportedInterface>
     <DefInterface>2</DefInterface>
@@ -1212,7 +1174,7 @@
     <ID>138</ID>
     <Name>Microsoft Word</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\Word.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\Word.png</IconFile>
     <TwoPhase>false</TwoPhase>
     <SupportedInterface>Both</SupportedInterface>
     <DefInterface>2</DefInterface>
@@ -1257,7 +1219,7 @@
     <ID>139</ID>
     <Name>Microsoft Excel</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\Excel.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\Excel.png</IconFile>
     <TwoPhase>false</TwoPhase>
     <SupportedInterface>Both</SupportedInterface>
     <DefInterface>2</DefInterface>
@@ -1302,7 +1264,7 @@
     <ID>152</ID>
     <Name>LDAP</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\LDAP.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\LDAP.png</IconFile>
     <TwoPhase>false</TwoPhase>
     <SupportedInterface>Both</SupportedInterface>
     <DefInterface>2</DefInterface>
@@ -1347,7 +1309,7 @@
     <ID>109</ID>
     <Name>FTP</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\FTP.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\FTP.png</IconFile>
     <TwoPhase>false</TwoPhase>
     <SupportedInterface>Both</SupportedInterface>
     <DefInterface>2</DefInterface>
@@ -1392,7 +1354,7 @@
     <ID>104</ID>
     <Name>Domino</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\dominoifc.gif</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\dominoifc.gif</IconFile>
     <TwoPhase>false</TwoPhase>
     <SupportedInterface>Both</SupportedInterface>
     <DefInterface>2</DefInterface>
@@ -1436,13 +1398,13 @@
     <ID>8437</ID>
     <Name>MQTT</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\addon_connectors\MQTT\Icons\mqttifc.gif</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\addon_connectors\MQTT\Icons\mqttifc.gif</IconFile>
     <TwoPhase>false</TwoPhase>
     <SupportedInterface>XML</SupportedInterface>
     <DefInterface>1</DefInterface>
     <DefResSerType>8437</DefResSerType>
     <StpTrgBoth>Both</StpTrgBoth>
-    <AdaptorDLLPath>D:\MSE_XPI\Magic_xpi_46\Runtime\addon_connectors\MQTT\UI\lib</AdaptorDLLPath>
+    <AdaptorDLLPath>D:\MSE_XPI\Magicxpi47\Runtime\addon_connectors\MQTT\UI\lib</AdaptorDLLPath>
     <InternalItem>false</InternalItem>
     <Groups>
       <row>
@@ -1458,7 +1420,7 @@
       <DDAMInfo>
         <MultiXSD>false</MultiXSD>
         <DDAMProg>false</DDAMProg>
-        <DXMLProg>false</DXMLProg>
+        <DXMLProg>true</DXMLProg>
       </DDAMInfo>
       <TriggerType>1</TriggerType>
       <InternalGroups>
@@ -1479,7 +1441,7 @@
       <DAMInterfaceThechnologyType>0</DAMInterfaceThechnologyType>
       <DAMInterfaceImplementationModule />
       <DAMInterfaceImplementationClass />
-      <LicenseFeature />
+      <LicenseFeature>MQTT</LicenseFeature>
     </StepConfigurationInfo>
     <TriggerConfigurationInfo>
       <UIType>D</UIType>
@@ -1488,7 +1450,7 @@
       <RuntimeTechnologyType>1</RuntimeTechnologyType>
       <RuntimeImplementationModule />
       <RuntimeImplementationClass>com.magicsoftware.sdk.mqttConnector.trigger.MQTTtriggeradaptor</RuntimeImplementationClass>
-      <LicenseFeature />
+      <LicenseFeature>MQTT</LicenseFeature>
       <FlowInvocationBehavior>2</FlowInvocationBehavior>
     </TriggerConfigurationInfo>
   </IFCDefinition>
@@ -1497,36 +1459,40 @@
     <ID>7698</ID>
     <Name>OData</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\addon_connectors\OData\Icons\Odata-logo icon 32.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\addon_connectors\OData\Icons\Odata-logo icon 32.png</IconFile>
     <TwoPhase>false</TwoPhase>
     <SupportedInterface>XML</SupportedInterface>
     <DefInterface>1</DefInterface>
     <DefResSerType>7698</DefResSerType>
-    <StpTrgBoth>Step</StpTrgBoth>
-    <AdaptorDLLPath>D:\MSE_XPI\Magic_xpi_46\Runtime\addon_connectors\OData\UI\lib</AdaptorDLLPath>
+    <StpTrgBoth>Both</StpTrgBoth>
+    <AdaptorDLLPath>D:\MSE_XPI\Magicxpi47\Runtime\addon_connectors\OData\UI\lib</AdaptorDLLPath>
     <InternalItem>false</InternalItem>
     <Groups>
       <row>
         <Name>Connectors</Name>
         <GroupName>Services</GroupName>
       </row>
+      <row>
+        <Name>Triggers</Name>
+        <GroupName>Triggers</GroupName>
+      </row>
     </Groups>
     <ConfigInfo>
       <DDAMInfo>
         <MultiXSD>false</MultiXSD>
         <DDAMProg>false</DDAMProg>
-        <DXMLProg>false</DXMLProg>
+        <DXMLProg>true</DXMLProg>
       </DDAMInfo>
-      <TriggerType>0</TriggerType>
+      <TriggerType>3</TriggerType>
       <InternalGroups>
         <row>
           <ID>7698</ID>
         </row>
       </InternalGroups>
       <ConfigRequireResource>true</ConfigRequireResource>
-      <ConfigRequireService>false</ConfigRequireService>
+      <ConfigRequireService>true</ConfigRequireService>
       <CheckerRequireResource>false</CheckerRequireResource>
-      <CheckerRequireService>false</CheckerRequireService>
+      <CheckerRequireService>true</CheckerRequireService>
     </ConfigInfo>
     <StepConfigurationInfo>
       <UIType>D</UIType>
@@ -1536,119 +1502,17 @@
       <DAMInterfaceThechnologyType>0</DAMInterfaceThechnologyType>
       <DAMInterfaceImplementationModule />
       <DAMInterfaceImplementationClass />
-      <LicenseFeature />
+      <LicenseFeature>ODATA</LicenseFeature>
     </StepConfigurationInfo>
     <TriggerConfigurationInfo>
-      <UIType>S</UIType>
-      <RuntimeTechnologyType>0</RuntimeTechnologyType>
-      <LicenseFeature />
-      <FlowInvocationBehavior>0</FlowInvocationBehavior>
-    </TriggerConfigurationInfo>
-  </IFCDefinition>
-  <IFCDefinition>
-    <Description />
-    <ID>6500</ID>
-    <Name>SimpleStepWithUI</Name>
-    <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\addon_connectors\SimpleStepWithUI\Icons\flag_usa.png</IconFile>
-    <TwoPhase>false</TwoPhase>
-    <SupportedInterface>XML</SupportedInterface>
-    <DefInterface>1</DefInterface>
-    <DefResSerType>6500</DefResSerType>
-    <StpTrgBoth>Step</StpTrgBoth>
-    <AdaptorDLLPath>D:\MSE_XPI\Magic_xpi_46\Runtime\addon_connectors\SimpleStepWithUI\UI\lib</AdaptorDLLPath>
-    <InternalItem>false</InternalItem>
-    <Groups>
-      <row>
-        <Name>Connectors</Name>
-        <GroupName>Services</GroupName>
-      </row>
-    </Groups>
-    <ConfigInfo>
-      <DDAMInfo>
-        <MultiXSD>false</MultiXSD>
-        <DDAMProg>false</DDAMProg>
-        <DXMLProg>false</DXMLProg>
-      </DDAMInfo>
-      <TriggerType>0</TriggerType>
-      <InternalGroups>
-        <row>
-          <ID>6500</ID>
-        </row>
-      </InternalGroups>
-      <ConfigRequireResource>false</ConfigRequireResource>
-      <ConfigRequireService>false</ConfigRequireService>
-      <CheckerRequireResource>true</CheckerRequireResource>
-      <CheckerRequireService>false</CheckerRequireService>
-    </ConfigInfo>
-    <StepConfigurationInfo>
       <UIType>D</UIType>
-      <UIImplementationClass>com.magicsoftware.step.simple.StepUI</UIImplementationClass>
-      <RuntimeTechnologyType>2</RuntimeTechnologyType>
-      <RuntimeImplementationModule>com.magicsoftware.step.simple.StepRT</RuntimeImplementationModule>
-      <DAMInterfaceThechnologyType>0</DAMInterfaceThechnologyType>
-      <DAMInterfaceImplementationModule />
-      <DAMInterfaceImplementationClass />
-      <LicenseFeature>SSWU</LicenseFeature>
-    </StepConfigurationInfo>
-    <TriggerConfigurationInfo>
-      <UIType>S</UIType>
-      <RuntimeTechnologyType>0</RuntimeTechnologyType>
-      <LicenseFeature>SSWU</LicenseFeature>
-      <FlowInvocationBehavior>0</FlowInvocationBehavior>
-    </TriggerConfigurationInfo>
-  </IFCDefinition>
-  <IFCDefinition>
-    <Description />
-    <ID>776824430</ID>
-    <Name>test</Name>
-    <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Component.gif</IconFile>
-    <TwoPhase>false</TwoPhase>
-    <SupportedInterface>XML</SupportedInterface>
-    <DefInterface>1</DefInterface>
-    <DefResSerType>776824430</DefResSerType>
-    <StpTrgBoth>Step</StpTrgBoth>
-    <AdaptorDLLPath>D:\MSE_XPI\Magic_xpi_46\Runtime\addon_connectors\test\UI\lib</AdaptorDLLPath>
-    <InternalItem>false</InternalItem>
-    <Groups>
-      <row>
-        <Name>Connectors</Name>
-        <GroupName>Services</GroupName>
-      </row>
-    </Groups>
-    <ConfigInfo>
-      <DDAMInfo>
-        <MultiXSD>false</MultiXSD>
-        <DDAMProg>false</DDAMProg>
-        <DXMLProg>false</DXMLProg>
-      </DDAMInfo>
-      <TriggerType>0</TriggerType>
-      <InternalGroups>
-        <row>
-          <ID>776824430</ID>
-        </row>
-      </InternalGroups>
-      <ConfigRequireResource>false</ConfigRequireResource>
-      <ConfigRequireService>false</ConfigRequireService>
-      <CheckerRequireResource>false</CheckerRequireResource>
-      <CheckerRequireService>false</CheckerRequireService>
-    </ConfigInfo>
-    <StepConfigurationInfo>
-      <UIType>D</UIType>
-      <UIImplementationClass>com.magicsoftware.sdk.test.UI</UIImplementationClass>
+      <UIImplementationClass>MagicSoftware.OData.Trigger.ODataTriggerConfiguration</UIImplementationClass>
+      <ServiceUIImplementationClass />
       <RuntimeTechnologyType>1</RuntimeTechnologyType>
-      <RuntimeImplementationModule>com.magicsoftware.sdk.test.rt</RuntimeImplementationModule>
-      <DAMInterfaceThechnologyType>0</DAMInterfaceThechnologyType>
-      <DAMInterfaceImplementationModule />
-      <DAMInterfaceImplementationClass />
-      <LicenseFeature />
-    </StepConfigurationInfo>
-    <TriggerConfigurationInfo>
-      <UIType>S</UIType>
-      <RuntimeTechnologyType>0</RuntimeTechnologyType>
-      <LicenseFeature />
-      <FlowInvocationBehavior>0</FlowInvocationBehavior>
+      <RuntimeImplementationModule />
+      <RuntimeImplementationClass />
+      <LicenseFeature>ODATA</LicenseFeature>
+      <FlowInvocationBehavior>3</FlowInvocationBehavior>
     </TriggerConfigurationInfo>
   </IFCDefinition>
   <IFCDefinition>
@@ -1657,7 +1521,7 @@
     <ID>103</ID>
     <Name>Directory Scanner</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\DirectoryScanner.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\DirectoryScanner.png</IconFile>
     <TwoPhase>true</TwoPhase>
     <SupportedInterface>Both</SupportedInterface>
     <DefInterface>2</DefInterface>
@@ -1665,7 +1529,7 @@
     <StpTrgBoth>Both</StpTrgBoth>
     <NameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</NameSpace>
     <DataNameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</DataNameSpace>
-    <AdaptorDLLPath>D:\MSE_XPI\Magic_xpi_46\Runtime\ifcLib\directoryscanner\DirectoryScanner.dll</AdaptorDLLPath>
+    <AdaptorDLLPath>D:\MSE_XPI\Magicxpi47\Runtime\ifcLib\directoryscanner\DirectoryScanner.dll</AdaptorDLLPath>
     <InternalItem>true</InternalItem>
     <TriggerDataNameSpace />
     <TriggerNameSpace />
@@ -1709,7 +1573,7 @@
     <ID>27</ID>
     <Name>.NET Utility</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\DotNet.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\DotNet.png</IconFile>
     <TwoPhase>true</TwoPhase>
     <SupportedInterface>Both</SupportedInterface>
     <DefInterface>0</DefInterface>
@@ -1717,7 +1581,7 @@
     <StpTrgBoth>Step</StpTrgBoth>
     <NameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</NameSpace>
     <DataNameSpace>ifcdotnetAdaptor.DotNetActionModel</DataNameSpace>
-    <AdaptorDLLPath>D:\MSE_XPI\Magic_xpi_46\Runtime\ifcLib\dotnet\DotNet.dll</AdaptorDLLPath>
+    <AdaptorDLLPath>D:\MSE_XPI\Magicxpi47\Runtime\ifcLib\dotnet\DotNet.dll</AdaptorDLLPath>
     <InternalItem>true</InternalItem>
     <TriggerDataNameSpace />
     <TriggerNameSpace />
@@ -1761,7 +1625,7 @@
     <ID>163</ID>
     <Name>Dynamics AX 2012</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\DynamicsAX.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\DynamicsAX.png</IconFile>
     <TwoPhase>true</TwoPhase>
     <SupportedInterface>XML</SupportedInterface>
     <DefInterface>1</DefInterface>
@@ -1769,7 +1633,7 @@
     <StpTrgBoth>Step</StpTrgBoth>
     <NameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</NameSpace>
     <DataNameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</DataNameSpace>
-    <AdaptorDLLPath>D:\MSE_XPI\Magic_xpi_46\Runtime\ifcLib\DynamicsAX\DynamicsAX.dll</AdaptorDLLPath>
+    <AdaptorDLLPath>D:\MSE_XPI\Magicxpi47\Runtime\ifcLib\DynamicsAX\DynamicsAX.dll</AdaptorDLLPath>
     <InternalItem>true</InternalItem>
     <TriggerDataNameSpace />
     <TriggerNameSpace />
@@ -1809,7 +1673,7 @@
     <ID>156</ID>
     <Name>Dynamics CRM</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\DynamicsCRM.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\DynamicsCRM.png</IconFile>
     <TwoPhase>true</TwoPhase>
     <SupportedInterface>Both</SupportedInterface>
     <DefInterface>1</DefInterface>
@@ -1817,7 +1681,7 @@
     <StpTrgBoth>Step</StpTrgBoth>
     <NameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</NameSpace>
     <DataNameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</DataNameSpace>
-    <AdaptorDLLPath>D:\MSE_XPI\Magic_xpi_46\Runtime\ifcLib\dynamicscrm\DynamicsCRM.dll</AdaptorDLLPath>
+    <AdaptorDLLPath>D:\MSE_XPI\Magicxpi47\Runtime\ifcLib\dynamicscrm\DynamicsCRM.dll</AdaptorDLLPath>
     <InternalItem>true</InternalItem>
     <TriggerDataNameSpace />
     <TriggerNameSpace />
@@ -1857,7 +1721,7 @@
     <ID>106</ID>
     <Name>Email</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\Email.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\Email.png</IconFile>
     <TwoPhase>false</TwoPhase>
     <SupportedInterface>Both</SupportedInterface>
     <DefInterface>2</DefInterface>
@@ -1865,7 +1729,7 @@
     <StpTrgBoth>Both</StpTrgBoth>
     <NameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</NameSpace>
     <DataNameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</DataNameSpace>
-    <AdaptorDLLPath>D:\MSE_XPI\Magic_xpi_46\Runtime\ifcLib\email\Email.dll</AdaptorDLLPath>
+    <AdaptorDLLPath>D:\MSE_XPI\Magicxpi47\Runtime\ifcLib\email\Email.dll</AdaptorDLLPath>
     <InternalItem>true</InternalItem>
     <TriggerDataNameSpace />
     <TriggerNameSpace />
@@ -1909,7 +1773,7 @@
     <ID>157</ID>
     <Name>Exchange</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\Exchange.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\Exchange.png</IconFile>
     <TwoPhase>true</TwoPhase>
     <SupportedInterface>Both</SupportedInterface>
     <DefInterface>1</DefInterface>
@@ -1917,7 +1781,7 @@
     <StpTrgBoth>Both</StpTrgBoth>
     <NameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</NameSpace>
     <DataNameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</DataNameSpace>
-    <AdaptorDLLPath>D:\MSE_XPI\Magic_xpi_46\Runtime\ifcLib\exchange\Exchange.dll</AdaptorDLLPath>
+    <AdaptorDLLPath>D:\MSE_XPI\Magicxpi47\Runtime\ifcLib\exchange\Exchange.dll</AdaptorDLLPath>
     <InternalItem>true</InternalItem>
     <TriggerDataNameSpace />
     <TriggerNameSpace />
@@ -1961,7 +1825,7 @@
     <ID>149</ID>
     <Name>HL7</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\HL7.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\HL7.png</IconFile>
     <TwoPhase>false</TwoPhase>
     <SupportedInterface>Both</SupportedInterface>
     <DefInterface>2</DefInterface>
@@ -1969,7 +1833,7 @@
     <StpTrgBoth>Both</StpTrgBoth>
     <NameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</NameSpace>
     <DataNameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</DataNameSpace>
-    <AdaptorDLLPath>D:\MSE_XPI\Magic_xpi_46\Runtime\ifcLib\hl7\HL7.dll</AdaptorDLLPath>
+    <AdaptorDLLPath>D:\MSE_XPI\Magicxpi47\Runtime\ifcLib\hl7\HL7.dll</AdaptorDLLPath>
     <InternalItem>true</InternalItem>
     <TriggerDataNameSpace />
     <TriggerNameSpace />
@@ -2013,7 +1877,7 @@
     <ID>110</ID>
     <Name>HTTP</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\Http.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\Http.png</IconFile>
     <TwoPhase>false</TwoPhase>
     <SupportedInterface>Both</SupportedInterface>
     <DefInterface>2</DefInterface>
@@ -2021,7 +1885,7 @@
     <StpTrgBoth>Both</StpTrgBoth>
     <NameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</NameSpace>
     <DataNameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</DataNameSpace>
-    <AdaptorDLLPath>D:\MSE_XPI\Magic_xpi_46\Runtime\ifcLib\http\Http.dll</AdaptorDLLPath>
+    <AdaptorDLLPath>D:\MSE_XPI\Magicxpi47\Runtime\ifcLib\http\Http.dll</AdaptorDLLPath>
     <InternalItem>true</InternalItem>
     <TriggerDataNameSpace />
     <TriggerNameSpace />
@@ -2065,7 +1929,7 @@
     <ID>145</ID>
     <Name>JD Edwards EnterpriseOne</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\jdedwards.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\jdedwards.png</IconFile>
     <TwoPhase>false</TwoPhase>
     <SupportedInterface>Both</SupportedInterface>
     <DefInterface>1</DefInterface>
@@ -2073,7 +1937,7 @@
     <StpTrgBoth>Step</StpTrgBoth>
     <NameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</NameSpace>
     <DataNameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</DataNameSpace>
-    <AdaptorDLLPath>D:\MSE_XPI\Magic_xpi_46\Runtime\ifcLib\jdedwards\jdedwards.dll</AdaptorDLLPath>
+    <AdaptorDLLPath>D:\MSE_XPI\Magicxpi47\Runtime\ifcLib\jdedwards\jdedwards.dll</AdaptorDLLPath>
     <InternalItem>true</InternalItem>
     <TriggerDataNameSpace />
     <TriggerNameSpace />
@@ -2113,7 +1977,7 @@
     <ID>161</ID>
     <Name>JD Edwards World</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\JDEWorld.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\JDEWorld.png</IconFile>
     <TwoPhase>false</TwoPhase>
     <SupportedInterface>XML</SupportedInterface>
     <DefInterface>1</DefInterface>
@@ -2121,7 +1985,7 @@
     <StpTrgBoth>Step</StpTrgBoth>
     <NameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</NameSpace>
     <DataNameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</DataNameSpace>
-    <AdaptorDLLPath>D:\MSE_XPI\Magic_xpi_46\Runtime\ifcLib\JDEWorld\JDEWorld.dll</AdaptorDLLPath>
+    <AdaptorDLLPath>D:\MSE_XPI\Magicxpi47\Runtime\ifcLib\JDEWorld\JDEWorld.dll</AdaptorDLLPath>
     <InternalItem>true</InternalItem>
     <TriggerDataNameSpace />
     <TriggerNameSpace />
@@ -2161,7 +2025,7 @@
     <ID>115</ID>
     <Name>JMS</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\JMS.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\JMS.png</IconFile>
     <TwoPhase>false</TwoPhase>
     <SupportedInterface>Both</SupportedInterface>
     <DefInterface>2</DefInterface>
@@ -2169,7 +2033,7 @@
     <StpTrgBoth>Both</StpTrgBoth>
     <NameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</NameSpace>
     <DataNameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</DataNameSpace>
-    <AdaptorDLLPath>D:\MSE_XPI\Magic_xpi_46\Runtime\ifcLib\jms\JMS.dll</AdaptorDLLPath>
+    <AdaptorDLLPath>D:\MSE_XPI\Magicxpi47\Runtime\ifcLib\jms\JMS.dll</AdaptorDLLPath>
     <InternalItem>true</InternalItem>
     <TriggerDataNameSpace />
     <TriggerNameSpace />
@@ -2213,7 +2077,7 @@
     <ID>118</ID>
     <Name>MSMQ</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\MSMQ.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\MSMQ.png</IconFile>
     <TwoPhase>false</TwoPhase>
     <SupportedInterface>Both</SupportedInterface>
     <DefInterface>2</DefInterface>
@@ -2221,7 +2085,7 @@
     <StpTrgBoth>Both</StpTrgBoth>
     <NameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</NameSpace>
     <DataNameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</DataNameSpace>
-    <AdaptorDLLPath>D:\MSE_XPI\Magic_xpi_46\Runtime\ifcLib\msmq\MSMQ.dll</AdaptorDLLPath>
+    <AdaptorDLLPath>D:\MSE_XPI\Magicxpi47\Runtime\ifcLib\msmq\MSMQ.dll</AdaptorDLLPath>
     <InternalItem>true</InternalItem>
     <TriggerDataNameSpace />
     <TriggerNameSpace />
@@ -2265,7 +2129,7 @@
     <ID>144</ID>
     <Name>Notes DB</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\NotesDB.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\NotesDB.png</IconFile>
     <TwoPhase>false</TwoPhase>
     <SupportedInterface>XML</SupportedInterface>
     <DefInterface>1</DefInterface>
@@ -2273,7 +2137,7 @@
     <StpTrgBoth>Step</StpTrgBoth>
     <NameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</NameSpace>
     <DataNameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</DataNameSpace>
-    <AdaptorDLLPath>D:\MSE_XPI\Magic_xpi_46\Runtime\ifcLib\notesdb\NotesDB.dll</AdaptorDLLPath>
+    <AdaptorDLLPath>D:\MSE_XPI\Magicxpi47\Runtime\ifcLib\notesdb\NotesDB.dll</AdaptorDLLPath>
     <InternalItem>true</InternalItem>
     <TriggerDataNameSpace />
     <TriggerNameSpace />
@@ -2313,7 +2177,7 @@
     <ID>143</ID>
     <Name>Salesforce</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\Salesforce.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\Salesforce.png</IconFile>
     <TwoPhase>true</TwoPhase>
     <SupportedInterface>Both</SupportedInterface>
     <DefInterface>1</DefInterface>
@@ -2321,7 +2185,7 @@
     <StpTrgBoth>Both</StpTrgBoth>
     <NameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</NameSpace>
     <DataNameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</DataNameSpace>
-    <AdaptorDLLPath>D:\MSE_XPI\Magic_xpi_46\Runtime\ifcLib\salesforce\Salesforce.dll</AdaptorDLLPath>
+    <AdaptorDLLPath>D:\MSE_XPI\Magicxpi47\Runtime\ifcLib\salesforce\Salesforce.dll</AdaptorDLLPath>
     <InternalItem>true</InternalItem>
     <TriggerDataNameSpace />
     <TriggerNameSpace />
@@ -2365,7 +2229,7 @@
     <ID>153</ID>
     <Name>SAP A1</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\sapa1.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\sapa1.png</IconFile>
     <TwoPhase>false</TwoPhase>
     <SupportedInterface>XML</SupportedInterface>
     <DefInterface>1</DefInterface>
@@ -2373,7 +2237,7 @@
     <StpTrgBoth>Both</StpTrgBoth>
     <NameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</NameSpace>
     <DataNameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</DataNameSpace>
-    <AdaptorDLLPath>D:\MSE_XPI\Magic_xpi_46\Runtime\ifcLib\sapa1\sapa1.dll</AdaptorDLLPath>
+    <AdaptorDLLPath>D:\MSE_XPI\Magicxpi47\Runtime\ifcLib\sapa1\sapa1.dll</AdaptorDLLPath>
     <InternalItem>true</InternalItem>
     <TriggerDataNameSpace />
     <TriggerNameSpace />
@@ -2417,7 +2281,7 @@
     <ID>128</ID>
     <Name>SAPB1 2004</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\sapb1_2004.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\sapb1_2004.png</IconFile>
     <TwoPhase>false</TwoPhase>
     <SupportedInterface>Both</SupportedInterface>
     <DefInterface>1</DefInterface>
@@ -2425,7 +2289,7 @@
     <StpTrgBoth>Both</StpTrgBoth>
     <NameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</NameSpace>
     <DataNameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</DataNameSpace>
-    <AdaptorDLLPath>D:\MSE_XPI\Magic_xpi_46\Runtime\ifcLib\sapb1_2004\sapb1_2004.dll</AdaptorDLLPath>
+    <AdaptorDLLPath>D:\MSE_XPI\Magicxpi47\Runtime\ifcLib\sapb1_2004\sapb1_2004.dll</AdaptorDLLPath>
     <InternalItem>true</InternalItem>
     <TriggerDataNameSpace />
     <TriggerNameSpace />
@@ -2469,7 +2333,7 @@
     <ID>133</ID>
     <Name>SAPB1 2005</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\sapb1_2005.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\sapb1_2005.png</IconFile>
     <TwoPhase>false</TwoPhase>
     <SupportedInterface>Both</SupportedInterface>
     <DefInterface>1</DefInterface>
@@ -2477,7 +2341,7 @@
     <StpTrgBoth>Both</StpTrgBoth>
     <NameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</NameSpace>
     <DataNameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</DataNameSpace>
-    <AdaptorDLLPath>D:\MSE_XPI\Magic_xpi_46\Runtime\ifcLib\sapb1_2005\sapb1_2005.dll</AdaptorDLLPath>
+    <AdaptorDLLPath>D:\MSE_XPI\Magicxpi47\Runtime\ifcLib\sapb1_2005\sapb1_2005.dll</AdaptorDLLPath>
     <InternalItem>true</InternalItem>
     <TriggerDataNameSpace />
     <TriggerNameSpace />
@@ -2521,7 +2385,7 @@
     <ID>141</ID>
     <Name>SAPB1 2007</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\sapb1_2007.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\sapb1_2007.png</IconFile>
     <TwoPhase>false</TwoPhase>
     <SupportedInterface>Both</SupportedInterface>
     <DefInterface>1</DefInterface>
@@ -2529,7 +2393,7 @@
     <StpTrgBoth>Both</StpTrgBoth>
     <NameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</NameSpace>
     <DataNameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</DataNameSpace>
-    <AdaptorDLLPath>D:\MSE_XPI\Magic_xpi_46\Runtime\ifcLib\sapb1_2007\sapb1_2007.dll</AdaptorDLLPath>
+    <AdaptorDLLPath>D:\MSE_XPI\Magicxpi47\Runtime\ifcLib\sapb1_2007\sapb1_2007.dll</AdaptorDLLPath>
     <InternalItem>true</InternalItem>
     <TriggerDataNameSpace />
     <TriggerNameSpace />
@@ -2573,7 +2437,7 @@
     <ID>160</ID>
     <Name>SAPB1 8.8</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\sapb1_88.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\sapb1_88.png</IconFile>
     <TwoPhase>false</TwoPhase>
     <SupportedInterface>Both</SupportedInterface>
     <DefInterface>1</DefInterface>
@@ -2581,7 +2445,7 @@
     <StpTrgBoth>Both</StpTrgBoth>
     <NameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</NameSpace>
     <DataNameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</DataNameSpace>
-    <AdaptorDLLPath>D:\MSE_XPI\Magic_xpi_46\Runtime\ifcLib\sapb1_88\sapb1_88.dll</AdaptorDLLPath>
+    <AdaptorDLLPath>D:\MSE_XPI\Magicxpi47\Runtime\ifcLib\sapb1_88\sapb1_88.dll</AdaptorDLLPath>
     <InternalItem>true</InternalItem>
     <TriggerDataNameSpace />
     <TriggerNameSpace />
@@ -2625,7 +2489,7 @@
     <ID>140</ID>
     <Name>SAP R/3</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\sapr3.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\sapr3.png</IconFile>
     <TwoPhase>false</TwoPhase>
     <SupportedInterface>XML</SupportedInterface>
     <DefInterface>1</DefInterface>
@@ -2633,7 +2497,7 @@
     <StpTrgBoth>Both</StpTrgBoth>
     <NameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</NameSpace>
     <DataNameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</DataNameSpace>
-    <AdaptorDLLPath>D:\MSE_XPI\Magic_xpi_46\Runtime\ifcLib\sapr3\sapr3.dll</AdaptorDLLPath>
+    <AdaptorDLLPath>D:\MSE_XPI\Magicxpi47\Runtime\ifcLib\sapr3\sapr3.dll</AdaptorDLLPath>
     <InternalItem>true</InternalItem>
     <TriggerDataNameSpace />
     <TriggerNameSpace />
@@ -2677,7 +2541,7 @@
     <ID>164</ID>
     <Name>ServiceMax</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\ServiceMax.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\ServiceMax.png</IconFile>
     <TwoPhase>true</TwoPhase>
     <SupportedInterface>Both</SupportedInterface>
     <DefInterface>1</DefInterface>
@@ -2685,7 +2549,7 @@
     <StpTrgBoth>Both</StpTrgBoth>
     <NameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</NameSpace>
     <DataNameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</DataNameSpace>
-    <AdaptorDLLPath>D:\MSE_XPI\Magic_xpi_46\Runtime\ifcLib\ServiceMax\ServiceMax.dll</AdaptorDLLPath>
+    <AdaptorDLLPath>D:\MSE_XPI\Magicxpi47\Runtime\ifcLib\ServiceMax\ServiceMax.dll</AdaptorDLLPath>
     <InternalItem>true</InternalItem>
     <TriggerDataNameSpace />
     <TriggerNameSpace />
@@ -2729,7 +2593,7 @@
     <ID>159</ID>
     <Name>SharePoint</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\SharePoint.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\SharePoint.png</IconFile>
     <TwoPhase>true</TwoPhase>
     <SupportedInterface>Both</SupportedInterface>
     <DefInterface>1</DefInterface>
@@ -2737,7 +2601,7 @@
     <StpTrgBoth>Step</StpTrgBoth>
     <NameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</NameSpace>
     <DataNameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</DataNameSpace>
-    <AdaptorDLLPath>D:\MSE_XPI\Magic_xpi_46\Runtime\ifcLib\sharepoint\SharePoint.dll</AdaptorDLLPath>
+    <AdaptorDLLPath>D:\MSE_XPI\Magicxpi47\Runtime\ifcLib\sharepoint\SharePoint.dll</AdaptorDLLPath>
     <InternalItem>true</InternalItem>
     <TriggerDataNameSpace />
     <TriggerNameSpace />
@@ -2777,7 +2641,7 @@
     <ID>162</ID>
     <Name>Sugar</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\sugarcrm.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\sugarcrm.png</IconFile>
     <TwoPhase>true</TwoPhase>
     <SupportedInterface>Both</SupportedInterface>
     <DefInterface>1</DefInterface>
@@ -2785,7 +2649,7 @@
     <StpTrgBoth>Both</StpTrgBoth>
     <NameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</NameSpace>
     <DataNameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</DataNameSpace>
-    <AdaptorDLLPath>D:\MSE_XPI\Magic_xpi_46\Runtime\ifcLib\sugarcrm\sugarcrm.dll</AdaptorDLLPath>
+    <AdaptorDLLPath>D:\MSE_XPI\Magicxpi47\Runtime\ifcLib\sugarcrm\sugarcrm.dll</AdaptorDLLPath>
     <InternalItem>true</InternalItem>
     <TriggerDataNameSpace />
     <TriggerNameSpace />
@@ -2829,7 +2693,7 @@
     <ID>111</ID>
     <Name>IBM i</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\System_i.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\System_i.png</IconFile>
     <TwoPhase>true</TwoPhase>
     <SupportedInterface>Both</SupportedInterface>
     <DefInterface>2</DefInterface>
@@ -2837,7 +2701,7 @@
     <StpTrgBoth>Both</StpTrgBoth>
     <NameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</NameSpace>
     <DataNameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</DataNameSpace>
-    <AdaptorDLLPath>D:\MSE_XPI\Magic_xpi_46\Runtime\ifcLib\system_i\System_i.dll</AdaptorDLLPath>
+    <AdaptorDLLPath>D:\MSE_XPI\Magicxpi47\Runtime\ifcLib\system_i\System_i.dll</AdaptorDLLPath>
     <InternalItem>true</InternalItem>
     <TriggerDataNameSpace />
     <TriggerNameSpace />
@@ -2881,7 +2745,7 @@
     <ID>158</ID>
     <Name>TCPListener</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\TCPListener.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\TCPListener.png</IconFile>
     <TwoPhase>false</TwoPhase>
     <SupportedInterface>Both</SupportedInterface>
     <DefInterface>2</DefInterface>
@@ -2889,7 +2753,7 @@
     <StpTrgBoth>Trigger</StpTrgBoth>
     <NameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</NameSpace>
     <DataNameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</DataNameSpace>
-    <AdaptorDLLPath>D:\MSE_XPI\Magic_xpi_46\Runtime\ifcLib\tcplistener\TCPListener.dll</AdaptorDLLPath>
+    <AdaptorDLLPath>D:\MSE_XPI\Magicxpi47\Runtime\ifcLib\tcplistener\TCPListener.dll</AdaptorDLLPath>
     <InternalItem>true</InternalItem>
     <TriggerDataNameSpace />
     <TriggerNameSpace />
@@ -2933,7 +2797,7 @@
     <ID>23</ID>
     <Name>Magic xpa</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\uniPaaS.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\uniPaaS.png</IconFile>
     <TwoPhase>true</TwoPhase>
     <SupportedInterface>Both</SupportedInterface>
     <DefInterface>0</DefInterface>
@@ -2941,7 +2805,7 @@
     <StpTrgBoth>Step</StpTrgBoth>
     <NameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</NameSpace>
     <DataNameSpace>UniPaasActionAdaptor.UniPaasActionModel</DataNameSpace>
-    <AdaptorDLLPath>D:\MSE_XPI\Magic_xpi_46\Runtime\ifcLib\unipaas\uniPaaS.dll</AdaptorDLLPath>
+    <AdaptorDLLPath>D:\MSE_XPI\Magicxpi47\Runtime\ifcLib\unipaas\uniPaaS.dll</AdaptorDLLPath>
     <InternalItem>true</InternalItem>
     <TriggerDataNameSpace />
     <TriggerNameSpace />
@@ -2981,7 +2845,7 @@
     <ID>200</ID>
     <Name>WCFClient</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\WCFClient.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\WCFClient.png</IconFile>
     <TwoPhase>true</TwoPhase>
     <SupportedInterface>XML</SupportedInterface>
     <DefInterface>1</DefInterface>
@@ -2989,7 +2853,7 @@
     <StpTrgBoth>Step</StpTrgBoth>
     <NameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</NameSpace>
     <DataNameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</DataNameSpace>
-    <AdaptorDLLPath>D:\MSE_XPI\Magic_xpi_46\Runtime\ifcLib\WCFClient\WCFClient.dll</AdaptorDLLPath>
+    <AdaptorDLLPath>D:\MSE_XPI\Magicxpi47\Runtime\ifcLib\WCFClient\WCFClient.dll</AdaptorDLLPath>
     <InternalItem>true</InternalItem>
     <TriggerDataNameSpace />
     <TriggerNameSpace />
@@ -3029,7 +2893,7 @@
     <ID>25</ID>
     <Name>Web Services</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\WebService.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\WebService.png</IconFile>
     <TwoPhase>true</TwoPhase>
     <SupportedInterface>Both</SupportedInterface>
     <DefInterface>0</DefInterface>
@@ -3037,7 +2901,7 @@
     <StpTrgBoth>Both</StpTrgBoth>
     <NameSpace>MagicSoftware.iBolt.Common.IComponentGeneratorConfig</NameSpace>
     <DataNameSpace>MagicSoftware.iBolt.Common.IComponentGeneratorConfig</DataNameSpace>
-    <AdaptorDLLPath>D:\MSE_XPI\Magic_xpi_46\Runtime\ifcLib\webservice\WebService.dll</AdaptorDLLPath>
+    <AdaptorDLLPath>D:\MSE_XPI\Magicxpi47\Runtime\ifcLib\webservice\WebService.dll</AdaptorDLLPath>
     <InternalItem>true</InternalItem>
     <TriggerDataNameSpace />
     <TriggerNameSpace />
@@ -3081,7 +2945,7 @@
     <ID>117</ID>
     <Name>WebSphere MQ</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\WebSphereMQ.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\WebSphereMQ.png</IconFile>
     <TwoPhase>true</TwoPhase>
     <SupportedInterface>Both</SupportedInterface>
     <DefInterface>2</DefInterface>
@@ -3089,7 +2953,7 @@
     <StpTrgBoth>Both</StpTrgBoth>
     <NameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</NameSpace>
     <DataNameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</DataNameSpace>
-    <AdaptorDLLPath>D:\MSE_XPI\Magic_xpi_46\Runtime\ifcLib\webspheremq\WebSphereMQ.dll</AdaptorDLLPath>
+    <AdaptorDLLPath>D:\MSE_XPI\Magicxpi47\Runtime\ifcLib\webspheremq\WebSphereMQ.dll</AdaptorDLLPath>
     <InternalItem>true</InternalItem>
     <TriggerDataNameSpace />
     <TriggerNameSpace />
@@ -3133,7 +2997,7 @@
     <ID>155</ID>
     <Name>XML Handling</Name>
     <Order>0</Order>
-    <IconFile>D:\MSE_XPI\Magic_xpi_46\Runtime\Icons\Large\xmlhandling.png</IconFile>
+    <IconFile>D:\MSE_XPI\Magicxpi47\Runtime\Icons\Large\xmlhandling.png</IconFile>
     <TwoPhase>true</TwoPhase>
     <SupportedInterface>Method</SupportedInterface>
     <DefInterface>2</DefInterface>
@@ -3141,7 +3005,7 @@
     <StpTrgBoth>Step</StpTrgBoth>
     <NameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</NameSpace>
     <DataNameSpace>MagicSoftware.iBolt.Component.iBComponentFactory</DataNameSpace>
-    <AdaptorDLLPath>D:\MSE_XPI\Magic_xpi_46\Runtime\ifcLib\xmlhandling\xmlhandling.dll</AdaptorDLLPath>
+    <AdaptorDLLPath>D:\MSE_XPI\Magicxpi47\Runtime\ifcLib\xmlhandling\xmlhandling.dll</AdaptorDLLPath>
     <InternalItem>true</InternalItem>
     <TriggerDataNameSpace />
     <TriggerNameSpace />

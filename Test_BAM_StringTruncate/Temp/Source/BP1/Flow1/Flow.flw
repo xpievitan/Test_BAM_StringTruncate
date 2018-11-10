@@ -299,6 +299,24 @@
         </Delay>
       </iBoltService>
     </row_Step>
+    <row_Step>
+      <Properties>
+        <isGoTo>false</isGoTo>
+        <ParentStepID>6</ParentStepID>
+        <SortOrder>1</SortOrder>
+        <ID>7</ID>
+        <Name>NOP</Name>
+        <IFCDefinition>22</IFCDefinition>
+        <ProcessMode>1</ProcessMode>
+        <isTwoPhase>false</isTwoPhase>
+        <isWait4Comp>false</isWait4Comp>
+        <isSavePoint>false</isSavePoint>
+        <CallLogicFlow>false</CallLogicFlow>
+        <isReturnXML>false</isReturnXML>
+        <isTrigger>false</isTrigger>
+      </Properties>
+      <iBoltService />
+    </row_Step>
   </Steps>
   <Triggers />
   <TextElements />
